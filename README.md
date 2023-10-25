@@ -24,6 +24,7 @@ In this data analysis odyssey, we journey through World Cup history's statistica
 ## <a id='1'>Dataset</a>
 
 * result dataset - [result.csv](international-football-results-from-1872-to-2017/results.csv')
+![data-preview](https://github.com/ImAnitaYadav07/FIFA24_line_up_analysis/blob/127ad3116bfce75a5758cc99f4ee7db37130fc10/dt.png)
 * goalscore dataset - [goalscore.csv](international-football-results-from-1872-to-2017/goalscore.csv') 
 
 ## <a id='1'>Data Wrangling</a>
@@ -50,21 +51,25 @@ In this data analysis odyssey, we journey through World Cup history's statistica
 ```
    In june(6744) month most matches are played.
 ```
+![data-preview](https://github.com/ImAnitaYadav07/FIFA24_line_up_analysis/blob/127ad3116bfce75a5758cc99f4ee7db37130fc10/weekmonth.png)
 
 * On which weekdays most matches are played ?
 ```
   On Wednesday(10.343k) and Sunday(10.747k) most matches are played.
 ```
+![data-preview](https://github.com/ImAnitaYadav07/FIFA24_line_up_analysis/blob/127ad3116bfce75a5758cc99f4ee7db37130fc10/weekm.png)
 * Does home advantage helps a team to win ?
 ```
    From the above plots if we only see the win count in false(not a neutral venue or home ground) and true(neutral ground)
     then there is home advantage as in false(win is around 17K) and in true(win = 4807).
 ```
+![data-preview](https://github.com/ImAnitaYadav07/FIFA24_line_up_analysis/blob/127ad3116bfce75a5758cc99f4ee7db37130fc10/weekday.png)
 * Number of matches played in tournaments each year ?
 ```
    There are 609 FIFA World Cup qualification matches played in 2021 highest till now. It is followed by 491 FIFA World Cup
     qualification matches in 2001 played and then 426 Friendly matches played in 2018.
 ```
+![data-preview](https://github.com/ImAnitaYadav07/FIFA24_line_up_analysis/blob/127ad3116bfce75a5758cc99f4ee7db37130fc10/topteam.png)
 * Who is the best team of all time ?
 ```
    By comapring the top 5 home teams and away teams we can say that Brazil has won most number of home matches.
@@ -74,6 +79,7 @@ In this data analysis odyssey, we journey through World Cup history's statistica
    19s era(or from 1900-2000) Brazil(298) grabbed the top spot followed by Argentina , Sweden , Germany. Many legends
      played in that era.
 ```
+![data-preview](https://github.com/ImAnitaYadav07/FIFA24_line_up_analysis/blob/127ad3116bfce75a5758cc99f4ee7db37130fc10/topplyer.png)
 
 * What countries play with each other the most ?
 ```
@@ -85,6 +91,7 @@ In this data analysis odyssey, we journey through World Cup history's statistica
    USA has hosted 894 matches in which it not participated. It is followed
    by Malaysia(473 matches) and Quatar(372 matches).
 ```
+![data-preview](https://github.com/ImAnitaYadav07/FIFA24_line_up_analysis/blob/127ad3116bfce75a5758cc99f4ee7db37130fc10/playergoal.png)
 * Which teams are the most active in playing friendlies and friendly tournaments ?
   
 ```
@@ -106,15 +113,20 @@ In this data analysis odyssey, we journey through World Cup history's statistica
 ```
    Germany has most own goals(4) followed by Russia,Crotia,Mexico,Spain,Canada.
 ```
+![data-preview](https://github.com/ImAnitaYadav07/FIFA24_line_up_analysis/blob/127ad3116bfce75a5758cc99f4ee7db37130fc10/teamgoal.png)
+
 * Which team score most goals in 1st half or second half ?
 ```
    Top 5 spots shows that Brazil,Germany,Argentina,Spain,Netherlands had scored most goals in 2nd half
     of the match because there are often player replacement or change of playing technique or goal chasing after the 1st half.
 ```
+![data-preview](https://github.com/ImAnitaYadav07/FIFA24_line_up_analysis/blob/127ad3116bfce75a5758cc99f4ee7db37130fc10/secondhalf.png)
+
 * Which player score most goals in 1st half or second half ?
 ```
    Cristanio Ronaldo is on 1st place and he mostly goals in second half.He is followed by Ali Daei and Robert Lewandowski.
 ```
+![data-preview](https://github.com/ImAnitaYadav07/FIFA24_line_up_analysis/blob/127ad3116bfce75a5758cc99f4ee7db37130fc10/firsthalf.png)
 
 ###  Credit to-
 
