@@ -51,7 +51,7 @@ In this data analysis odyssey, we journey through World Cup history's statistica
 ```
    In june(6744) month most matches are played.
 ```
-![data-preview](https://github.com/ImAnitaYadav07/FIFA24_line_up_analysis/blob/127ad3116bfce75a5758cc99f4ee7db37130fc10/weekmonth.png)
+![data-preview](https://github.com/ImAnitaYadav07/FIFA24_line_up_analysis/blob/e1743724de1f9db890280946e1bd8ae85531ebb2/weekmonth.png)
 
 * On which weekdays most matches are played ?
 ```
